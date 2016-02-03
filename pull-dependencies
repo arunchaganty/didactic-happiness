@@ -1,0 +1,8 @@
+#!/bin/bash
+# vim:ft=sh 
+# Library to handle dependencies.
+
+source pull-dependencies.lib
+
+pipPackage cvxpy
+
